@@ -1,0 +1,6 @@
+https://git-scm.com/
+https://www.slideshare.net/chacon/git-101-presentation
+https://en.wikipedia.org/wiki/Git
+
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+https://docs.github.com/en/get-started/quickstart/hello-world
